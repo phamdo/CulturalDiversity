@@ -1,0 +1,456 @@
+1 Benin
+Entropy: 2.68917407179
+2 Palau
+Entropy: 2.63033236101
+3 Singapore
+Entropy: 2.60663922793
+4 Australia
+Entropy: 2.53412222074
+5 Trinidad and Tobago
+Entropy: 2.53145338989
+6 Mozambique
+Entropy: 2.51092090066
+7 Guyana
+Entropy: 2.48400721738
+8 World
+Entropy: 2.43755246091
+9 Congo, Republic of the
+Entropy: 2.43087884831
+10 European Union
+Entropy: 2.3363638448
+11 Canada
+Entropy: 2.25806399292
+12 Bermuda
+Entropy: 2.25568369144
+13 Cote d'Ivoire
+Entropy: 2.24576722653
+14 Sint Maarten
+Entropy: 2.22215506357
+15 Christmas Island
+Entropy: 2.19384887766
+16 Hungary
+Entropy: 2.18357191005
+17 Suriname
+Entropy: 2.17607409104
+18 Switzerland
+Entropy: 2.14179876028
+19 Sao Tome and Principe
+Entropy: 2.0773766724
+20 United States
+Entropy: 2.06470782252
+21 South Africa
+Entropy: 2.04639161522
+22 Fiji
+Entropy: 2.04378523377
+23 New Zealand
+Entropy: 1.97783984876
+24 Albania
+Entropy: 1.97112049814
+25 Gabon
+Entropy: 1.96571200815
+26 Congo, Democratic Republic of the
+Entropy: 1.96096404744
+27 Belize
+Entropy: 1.9561454401
+28 Guinea-Bissau
+Entropy: 1.94335514361
+29 Central African Republic
+Entropy: 1.94064544962
+30 Chad
+Entropy: 1.91921138159
+31 Norfolk Island
+Entropy: 1.91809997929
+32 Uruguay
+Entropy: 1.88614264894
+33 Marshall Islands
+Entropy: 1.87142686416
+34 Bosnia and Herzegovina
+Entropy: 1.86022081717
+35 Estonia
+Entropy: 1.84870557329
+36 Swaziland
+Entropy: 1.84643934467
+37 Netherlands
+Entropy: 1.84537978843
+38 Mauritius
+Entropy: 1.80913800887
+39 Slovenia
+Entropy: 1.76359991309
+40 Germany
+Entropy: 1.74971039084
+41 Ethiopia
+Entropy: 1.73690761019
+42 Angola
+Entropy: 1.73389166356
+43 Samoa
+Entropy: 1.73191228261
+44 Cook Islands
+Entropy: 1.69987738516
+45 Malaysia
+Entropy: 1.69885350511
+46 Niue
+Entropy: 1.67254418813
+47 Slovakia
+Entropy: 1.66630187211
+48 El Salvador
+Entropy: 1.65230668898
+49 Haiti
+Entropy: 1.64953483566
+50 Uganda
+Entropy: 1.63668140918
+51 United Kingdom
+Entropy: 1.61534690462
+52 Grenada
+Entropy: 1.60644460471
+53 Korea, South
+Entropy: 1.60458468783
+54 Rwanda
+Entropy: 1.602381179
+55 Curacao
+Entropy: 1.59151363166
+56 French Polynesia
+Entropy: 1.57685920039
+57 Montserrat
+Entropy: 1.57295895996
+58 Saint Lucia
+Entropy: 1.56752869094
+59 Jamaica
+Entropy: 1.56366641896
+60 Kiribati
+Entropy: 1.55787217236
+61 Burkina Faso
+Entropy: 1.53561190687
+62 Cameroon
+Entropy: 1.52192809489
+63 Bulgaria
+Entropy: 1.52111992027
+64 Nicaragua
+Entropy: 1.51749083045
+65 Burundi
+Entropy: 1.5153476201
+66 Antigua and Barbuda
+Entropy: 1.51287849749
+67 Iceland
+Entropy: 1.51227250016
+68 British Virgin Islands
+Entropy: 1.51222135562
+69 Barbados
+Entropy: 1.50319671212
+70 Brazil
+Entropy: 1.50197981235
+71 Cayman Islands
+Entropy: 1.48752481909
+72 Chile
+Entropy: 1.48014427053
+73 Togo
+Entropy: 1.4777191578
+74 Mongolia
+Entropy: 1.46844625902
+75 Macau
+Entropy: 1.44064544962
+76 Tonga
+Entropy: 1.4302817451
+77 Czech Republic
+Entropy: 1.42089825344
+78 Dominica
+Entropy: 1.40246731899
+79 Bahamas, The
+Entropy: 1.40066286395
+80 France
+Entropy: 1.39484109562
+81 Sri Lanka
+Entropy: 1.39445217389
+82 Latvia
+Entropy: 1.38795126318
+83 Austria
+Entropy: 1.38556942681
+84 Liechtenstein
+Entropy: 1.37952526748
+85 Vanuatu
+Entropy: 1.3756753712
+86 Nigeria
+Entropy: 1.36096404744
+87 Seychelles
+Entropy: 1.33876608672
+88 Gibraltar
+Entropy: 1.32238066542
+89 Nauru
+Entropy: 1.31903931905
+90 Sierra Leone
+Entropy: 1.29546184424
+91 New Caledonia
+Entropy: 1.29546184424
+92 Ecuador
+Entropy: 1.29069804408
+93 Ghana
+Entropy: 1.28935638625
+94 Tokelau
+Entropy: 1.28216646596
+95 Bahrain
+Entropy: 1.2670979256
+96 Montenegro
+Entropy: 1.2666517371
+97 Micronesia, Federated States of
+Entropy: 1.26292587316
+98 Aruba
+Entropy: 1.25675049436
+99 China
+Entropy: 1.25046928076
+100 Virgin Islands
+Entropy: 1.24684458008
+101 Lebanon
+Entropy: 1.24103764131
+102 Cabo Verde
+Entropy: 1.24098272151
+103 Lithuania
+Entropy: 1.23101792306
+104 Zimbabwe
+Entropy: 1.22500176879
+105 Bolivia
+Entropy: 1.20554490222
+106 Turks and Caicos Islands
+Entropy: 1.19200205258
+107 Costa Rica
+Entropy: 1.19138204314
+108 Namibia
+Entropy: 1.19092368848
+109 Botswana
+Entropy: 1.1762366749
+110 Tanzania
+Entropy: 1.17077650091
+111 Israel
+Entropy: 1.14219300262
+112 Solomon Islands
+Entropy: 1.13564039794
+113 Mexico
+Entropy: 1.08105835457
+114 Brunei
+Entropy: 1.07174431769
+115 Philippines
+Entropy: 1.06989754435
+116 Kazakhstan
+Entropy: 1.06520638703
+117 Papua New Guinea
+Entropy: 1.06330263433
+118 Saint Vincent and the Grenadines
+Entropy: 1.06098950846
+119 Macedonia
+Entropy: 1.05662512762
+120 Norway
+Entropy: 1.05505578524
+121 Laos
+Entropy: 1.05361640827
+122 Nepal
+Entropy: 1.05148235178
+123 Vietnam
+Entropy: 1.03911291419
+124 Falkland Islands (Islas Malvinas)
+Entropy: 1.034556071
+125 United Arab Emirates
+Entropy: 1.02410444009
+126 Zambia
+Entropy: 1.01933589339
+127 Japan
+Entropy: 1.01710218919
+128 Romania
+Entropy: 1.01530455351
+129 Portugal
+Entropy: 1.01469349852
+130 India
+Entropy: 0.997637379399
+131 Kyrgyzstan
+Entropy: 0.991760148181
+132 Russia
+Entropy: 0.987807581898
+133 Qatar
+Entropy: 0.984395745093
+134 Ireland
+Entropy: 0.982260657028
+135 Anguilla
+Entropy: 0.975904859988
+136 Kuwait
+Entropy: 0.972327394409
+137 Serbia
+Entropy: 0.970632036008
+138 Peru
+Entropy: 0.928353110575
+139 Bhutan
+Entropy: 0.926397327197
+140 Kenya
+Entropy: 0.919317302583
+141 Finland
+Entropy: 0.895595074343
+142 Georgia
+Entropy: 0.886885654915
+143 Croatia
+Entropy: 0.875818870777
+144 Denmark
+Entropy: 0.866313713865
+145 Malawi
+Entropy: 0.852131117076
+146 Belgium
+Entropy: 0.811278124459
+147 Cyprus
+Entropy: 0.782194142152
+148 Indonesia
+Entropy: 0.781945884382
+149 Guinea
+Entropy: 0.77619624706
+150 Tajikistan
+Entropy: 0.747584679825
+151 Oman
+Entropy: 0.730544595013
+152 West Bank
+Entropy: 0.729453845444
+153 Cocos (Keeling) Islands
+Entropy: 0.721928094887
+154 Lesotho
+Entropy: 0.721928094887
+155 Belarus
+Entropy: 0.721928094887
+156 Niger
+Entropy: 0.721928094887
+157 Italy
+Entropy: 0.721928094887
+158 Liberia
+Entropy: 0.710725845207
+159 Burma
+Entropy: 0.700453436215
+160 Poland
+Entropy: 0.664259771172
+161 Syria
+Entropy: 0.658753663876
+162 Paraguay
+Entropy: 0.642450200604
+163 Faroe Islands
+Entropy: 0.639072792755
+164 Uzbekistan
+Entropy: 0.626714240222
+165 Guam
+Entropy: 0.609840304716
+166 Panama
+Entropy: 0.609840304716
+167 Puerto Rico
+Entropy: 0.609840304716
+168 Turkmenistan
+Entropy: 0.575160186085
+169 Sweden
+Entropy: 0.557438185028
+170 Luxembourg
+Entropy: 0.557438185028
+171 Bangladesh
+Entropy: 0.541709415896
+172 Argentina
+Entropy: 0.522179190202
+173 Armenia
+Entropy: 0.517982584133
+174 Moldova
+Entropy: 0.516960210428
+175 Monaco
+Entropy: 0.468995593589
+176 Hong Kong
+Entropy: 0.468995593589
+177 Colombia
+Entropy: 0.468995593589
+178 Egypt
+Entropy: 0.468995593589
+179 Taiwan
+Entropy: 0.431743668007
+180 Thailand
+Entropy: 0.406982574762
+181 Mali
+Entropy: 0.378413494815
+182 Kosovo
+Entropy: 0.33304170284
+183 Djibouti
+Entropy: 0.327444919154
+184 Spain
+Entropy: 0.327444919154
+185 Senegal
+Entropy: 0.288762387876
+186 Dominican Republic
+Entropy: 0.286396957116
+187 Venezuela
+Entropy: 0.282292189082
+188 Gambia, The
+Entropy: 0.272699752627
+189 Tuvalu
+Entropy: 0.262464013692
+190 Cambodia
+Entropy: 0.240251745009
+191 Timor-Leste
+Entropy: 0.234590209648
+192 Pakistan
+Entropy: 0.223641664484
+193 Libya
+Entropy: 0.214044817508
+194 Jordan
+Entropy: 0.202793251263
+195 Cuba
+Entropy: 0.199295465591
+196 Azerbaijan
+Entropy: 0.195789865612
+197 Honduras
+Entropy: 0.194391857832
+198 Greece
+Entropy: 0.160121903649
+199 Comoros
+Entropy: 0.141440542542
+200 American Samoa
+Entropy: 0.140863722226
+201 Malta
+Entropy: 0.136802784101
+202 Wallis and Futuna
+Entropy: 0.0807931358959
+203 Saint Pierre and Miquelon
+Entropy: 0.0807931358959
+204 Tunisia
+Entropy: 0.0793642120361
+205 Yemen
+Entropy: 0.0740883836873
+206 Iraq
+Entropy: 0.0700808482755
+207 Iran
+Entropy: 0.0656357521317
+208 Afghanistan
+Entropy: 0.0294640518449
+209 Turkey
+Entropy: 0.0208140713355
+210 Gaza Strip
+Entropy: 0.0143545739982
+211 Algeria
+Entropy: 0.0143545739982
+212 Morocco
+Entropy: 0.0143545739982
+213 Mauritania
+Entropy: 0.0
+214 Pitcairn Islands
+Entropy: 0.0
+Not enough data avaiable for the following countries: 
+Saint Martin
+Saudi Arabia
+Guatemala
+Holy See (Vatican City)
+Saint Barthelemy
+Maldives
+Jersey
+Greenland
+Saint Helena, Ascension, and Tristan da Cunha
+San Marino
+Somalia
+Western Sahara
+Saint Kitts and Nevis
+Ukraine
+Isle of Man
+Andorra
+Svalbard
+Guernsey
+Korea, North
+Madagascar
+Sudan
+Northern Mariana Islands
+Dhekelia
+Eritrea
+Akrotiri
+South Sudan
+Equatorial Guinea

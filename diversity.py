@@ -3,7 +3,9 @@ from HTMLParser import HTMLParser
 import urllib2
 import re
 from math import log
+
 countries = []
+countries2 = []
 
 class Country(object):
     def __init__(self, name, info):
@@ -54,35 +56,59 @@ class Language(Field):
         Field.init(self, "Language", info, data)
 
 
+def get_countries():
+    url = urllib2.urlopen("https://www.cia.gov/library/publications/the-world-factbook/")
+    soup = BeautifulSoup(url.read())
+    lst = soup.findAll("option")
+    for c in lst:
+        countries.append(str(c.text).strip())
+    print len(countries)
+def languages():
+    url = urllib2.urlopen("https://www.cia.gov/library/publications/the-world-factbook/fields/2098.html")
+    src = url.read()
+    soup = BeautifulSoup(src)
 
+    table = soup.find("table", id = "fieldListing")
+    rows = table.findAll("tr")
 
-response = urllib2.urlopen("https://www.cia.gov/library/publications/the-world-factbook/fields/2098.html")
+    cts = []
+    data = []
 
-src = response.read()
-soup = BeautifulSoup(src)
+    del rows[0]
+    for tr in rows:
+        cols = tr.findAll('td')
+        country = Country(cols[0].text, cols[1].text)
+        countries.append(country)
+        cts.append(cols[0].text)
+        data.append(cols[1].text)
 
-table= soup.find("table", id = "fieldListing")
-rows = table.findAll("tr")
+    for country in countries:
+        country.parseInfo()
+        country.calculateEntropy()
 
-cts = []
-data = []
+    
+    #c  = sorted(countries, key = lambda x: x.entropy)
 
-del rows[0]
-for tr in rows:
-    cols = tr.findAll('td')
-    country = Country(cols[0].text, cols[1].text)
-    countries.append(country)
-    cts.append(cols[0].text)
-    data.append(cols[1].text)
+    #for i in c:
+        #i.display()
+        #print "---------------------------------------------------"
 
-for country in countries:
-    country.parseInfo()
-    country.calculateEntropy()
+def religions(): 
+    url = urllib2.urlopen("https://www.cia.gov/library/publications/the-world-factbook/fields/2098.html")
+    src = url.read()
+    soup = BeautifulSoup(src)
 
-c  = sorted(countries, key = lambda x: x.entropy)
+    table = soup.find("table", id = "fieldListing")
+    rows = table.findAll("tr")
 
-for i in c:
-    i.display()
-    print "---------------------------------------------------"
+    cts = []
 
+    del rows[0]
+    for tr in rows:
+        cols = tr.findAll("td")
+        country = Country(cols[0].text, cols[1].text)
+        countries2.append(country)
+        cts.append(cols[0].text)
+    
 
+get_countries()
